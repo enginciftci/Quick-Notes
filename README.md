@@ -7,6 +7,8 @@
 
 A state-of-the-art, standalone desktop reminder and note-taking application designed specifically for **Windows 11**. **Quick Notes** features a fluid, animated accordion-style layout, custom frameless window interactions, a smart reminder system, and local JSON storage—all packaged into a single, dependency-free executable.
 
+![Quick Notes Screenshot](screenshot.jpg)
+
 ---
 
 ## ✨ Key Features
