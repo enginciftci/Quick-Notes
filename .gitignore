@@ -1,0 +1,9 @@
+# Ignore executables
+*.exe
+
+# Ignore local config/scratch files
+scratch/
+test_github.ps1
+check_repo.ps1
+upload_all.ps1
+.env
