@@ -76,8 +76,6 @@ Quick-Notes/
 │   ├── QuickNotes.exe     # Standalone Windows executable
 │   └── notes.json         # Local notes database
 │
-├── .gitignore             # Specifies intentionally untracked files to ignore
-├── .env                   # Local environment credentials (e.g. GITHUB_TOKEN)
 ├── icon.ico               # Windows application icon
 ├── icon.png               # Title bar / UI embedded icon
 ├── main.py                # Main application source code
