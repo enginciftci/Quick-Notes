@@ -1,0 +1,18 @@
+[
+  {
+    "id": "dummy-1",
+    "content": "Welcome to Accordion Reminders!\nHover over a note to expand it.\nClick 'Pin' to keep important notes at the top.\nDrag and drop items to reorder them manually.",
+    "is_important": true,
+    "frame_color": "#007aff",
+    "reminder_time": null,
+    "order_index": 0
+  },
+  {
+    "id": "dummy-2",
+    "content": "Create a New Note\nClick the large blue button at the bottom to write a custom reminder.",
+    "is_important": false,
+    "frame_color": "#27c93f",
+    "reminder_time": null,
+    "order_index": 1
+  }
+]
