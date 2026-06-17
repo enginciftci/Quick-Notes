@@ -4,10 +4,10 @@ We have successfully updated the build and compiled the Standalone **Quick Notes
 
 ## 🚀 Executable Details
 
-- **Standalone EXE Path:** [dist/main.exe](file:///C:/Users/enginciftci/Desktop/NOTES/dist/main.exe)
-- **Source Code Path:** [main.py](file:///C:/Users/enginciftci/Desktop/NOTES/main.py)
-- **Storage File:** [notes.json](file:///C:/Users/enginciftci/Desktop/NOTES/notes.json)
-- **Bundled App Icon:** [icon.ico](file:///C:/Users/enginciftci/Desktop/NOTES/icon.ico) / [icon.png](file:///C:/Users/enginciftci/Desktop/NOTES/icon.png)
+- **Standalone EXE Path:** [dist/main.exe](file:///C:/Users/<user_name>/Desktop/NOTES/dist/main.exe)
+- **Source Code Path:** [main.py](file:///C:/Users/<user_name>/Desktop/NOTES/main.py)
+- **Storage File:** [notes.json](file:///C:/Users/<user_name>/Desktop/NOTES/notes.json)
+- **Bundled App Icon:** [icon.ico](file:///C:/Users/<user_name>/Desktop/NOTES/icon.ico) / [icon.png](file:///C:/Users/<user_name>/Desktop/NOTES/icon.png)
 
 ---
 
@@ -51,7 +51,7 @@ We have successfully updated the build and compiled the Standalone **Quick Notes
 - **Compiler Command:**
   
   ```bash
-  C:\Users\enginciftci\AppData\Local\miniconda3\Scripts\pyinstaller.exe --icon=icon.ico --add-data "icon.png;." --noconsole --onefile main.py
+  C:\Users\<user_name>\AppData\Local\miniconda3\Scripts\pyinstaller.exe --icon=icon.ico --add-data "icon.png;." --noconsole --onefile main.py
   ```
 
 Resume: agy --conversation=a89b1ac6-f981-4ca6-a14d-ae95709c8ea6

@@ -94,7 +94,7 @@ Ensure you have **Python 3.11 or newer** installed.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/enginciftci/Quick-Notes.git
+git clone https://github.com/<user_name>/Quick-Notes.git
 cd Quick-Notes
 ```
 
