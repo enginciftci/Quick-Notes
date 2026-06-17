@@ -7,3 +7,4 @@ test_github.ps1
 check_repo.ps1
 upload_all.ps1
 .env
+build_summary.md
