@@ -1,6 +1,6 @@
 
 
-## Project Specification: Standalone Accordion Reminder App
+## Project Specification: Standalone Quick Notes App
 
 ### 1. Project Overview & Architecture
 
@@ -128,7 +128,7 @@ class NoteItem(QFrame):
 class ReminderApp(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Standalone Accordion Reminders")
+        self.setWindowTitle("Quick Notes")
         self.resize(400, 600)
         self.init_ui()
 

@@ -136,7 +136,7 @@ Notes are stored locally in the application directory in a structured JSON datab
 [
   {
     "id": "dummy-1",
-    "content": "Welcome to Accordion Reminders!\nHover over a note to expand it.\nClick 'Pin' to keep important notes at the top.\nDrag and drop items to reorder them manually.",
+    "content": "Welcome to Quick Notes!\nHover over a note to expand it.\nClick 'Pin' to keep important notes at the top.\nDrag and drop items to reorder them manually.",
     "is_important": true,
     "frame_color": "#007aff",
     "reminder_time": "2026-06-18T10:00:00",
